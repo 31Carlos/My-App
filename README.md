@@ -1,2 +1,2 @@
 # My-App
-My first app in ionic 4
+Meu primeiro app em ionic 4
